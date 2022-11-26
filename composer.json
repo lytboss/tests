@@ -1,0 +1,18 @@
+{
+    "name": "l/lyt",
+    "description": "描述",
+    "type": "test",
+    "license": "无",
+    "authors": [
+        {
+            "name": "22232006"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "php\\": "src/php"
+        }
+    }
+}
